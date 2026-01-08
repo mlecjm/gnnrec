@@ -1,2 +1,2 @@
-# gnnrec
-GNNRec: A Graph-based Neural Network Model for Efficient and Robust Product Recommendation
+# GNNRec: A Graph-based Neural Network Model for Efficient and Robust Product Recommendation
+GNNRec is a comprehensive recommendation framework that extends the LightGCN architecture by incorporating multi-relational user–item interactions, heterogeneous node embeddings, and multi-task learning. The model integrates rich semantic features and edge-weighted graph propagation to capture complex user preferences and item characteristics effectively. GNNRec mitigates cold-start effects through graph-based propagation and content-aware initialization and addresses data sparsity via adaptive sampling strategies.
