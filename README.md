@@ -4,5 +4,6 @@ GNNRec is a comprehensive recommendation framework that extends the LightGCN arc
 This is the implementation for our IEEE Access paper:
 
 Merlec M. M., Maria K. K., Landry M. K. and In H. P. "[GNNRec: A Graph-based Neural Network Model for Efficient and Robust Product Recommendation
-.](https://ieeexplore.ieee.org/document/11346492)" _IEEE access_ X (2026): XXXX-XXXX. DOI: [10.1109/ACCESS.2026.3653007](https://doi.org/10.1109/ACCESS.2026.3653007)
+.](https://ieeexplore.ieee.org/document/11346492)" _IEEE access_ X, vol. 14, pp. 8699-8717, 2026. DOI: [10.1109/ACCESS.2026.3653007](https://doi.org/10.1109/ACCESS.2026.3653007)
 
+Code Source is available upon request. 
